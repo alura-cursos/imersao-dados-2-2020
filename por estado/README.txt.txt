@@ -1,0 +1,1 @@
+Arquivos já separados pelo Antônio Salvador Neto em https://www.kaggle.com/dataset/eeebf2b4e3352e5ae3bbc7f985dd1edd7e11904a687431737859b3bd8f93cc64?select=Selec_AC.txt
