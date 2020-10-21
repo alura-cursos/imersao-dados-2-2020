@@ -19,7 +19,8 @@ arquivo = f'{estado}.csv.zip'
 ```
 import pandas as pd
 dados = pd.read_csv(arquivo)
-dados.head()```
+dados.head()
+```
 
 Arquivos csv foram separados por Antônio Salvador Neto
 Fonte: https://www.kaggle.com/dataset/eeebf2b4e3352e5ae3bbc7f985dd1edd7e11904a687431737859b3bd8f93cc64?select=Selec_AC.txt
